@@ -34,3 +34,7 @@ so CreateDIBSection step actually somehow directly copied the pixel to the buffe
 now the average frame took .0014 second to .0023 second. 
 
 NOW, question: can it be even faster?
+
+like how to compile the .dll
+
+or omit some variable initialization
