@@ -38,3 +38,5 @@ NOW, question: can it be even faster?
 like how to compile the .dll
 
 or omit some variable initialization
+
+maybe direct3d?
